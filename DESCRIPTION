@@ -1,0 +1,21 @@
+Package: HMapTCM
+Type: Package
+Title: High-Content Morphological Analysis Pipeline for Traditional Chinese Medicine(HMapTCM)
+Version: 0.1.0
+Authors@R: 
+    person("QiMing", "Luo", , "luo_qm@163.com", role = c("aut", "cre"))
+Description: HMapTCM is an R package designed to streamline the complexity of traditional Chinese medicine (TCM) formulations through high-content fluorescent morphological profiling and computational combinatorial optimization. Leveraging single-herb perturbation signatures and their relative concentrations in original formulae, the toolkit generates in silico combinatorial libraries, computes morphological similarity metrics between virtual combinations and reference formulae, and employs a Pareto-optimized evolutionary algorithm to identify simplified yet pharmacologically faithful herb combinations.
+License: use_gpl3_license()
+Encoding: UTF-8
+Depends: 
+    R (>= 2.10)
+Imports: 
+    shiny,
+    shinydashboard,
+    openxlsx,
+    limma,
+    factoextra,
+    dplyr,
+    factoextra
+LazyData: true
+RoxygenNote: 7.2.3

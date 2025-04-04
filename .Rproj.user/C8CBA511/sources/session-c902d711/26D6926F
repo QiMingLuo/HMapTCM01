@@ -1,0 +1,26 @@
+{
+    "id": "26D6926F",
+    "path": "F:/BuildingRpackage/HMapTCM/R/hello.R",
+    "project_path": "R/hello.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1743747376620.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,0",
+        "scrollLine": "646"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743753699,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743753699031,
+    "read_only": false,
+    "read_only_alternatives": []
+}
